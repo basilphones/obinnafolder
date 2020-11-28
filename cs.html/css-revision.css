@@ -1,0 +1,25 @@
+/*body{*/
+	background-color: black;
+}
+.container1{
+	background-color:white;
+	height: 200px;
+	width: 200px;
+
+}
+.container2{
+	background-color: orange;
+	color:white;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	top: 30px;
+	left: 30px;
+	border:solid 5px red;
+	border-bottom: 5px yellow groove;
+}
+
+#box1{
+	background-color: blue;
+	height: 200px;
+}

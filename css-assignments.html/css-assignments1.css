@@ -1,0 +1,37 @@
+ .group2{
+	margin-left: 11px;
+	text-decoration: none;
+}
+.group3{
+	margin-left: 11px;
+	text-decoration: none
+}
+.group4{
+	margin-left: 11px;
+	text-decoration: none;
+}
+.group5{
+	margin-left: 11px;
+	text-decoration: none;
+}
+.group{
+	text-decoration: none;
+}
+.group1{
+	text-decoration: none;
+}
+ #picture{
+ 	float: right; 
+ }
+ .color:nth-child(2) {
+ 	/*background-color: red;*/
+ 	width: 300px;
+ 	height: 220px;
+ 	text-align: center;
+ }
+ #images{
+ 	display: flex;
+ 	flex-direction: column;
+ 	/*margin:right;*/
+ 	float: right;
+ }

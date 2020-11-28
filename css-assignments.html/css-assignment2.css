@@ -1,0 +1,12 @@
+.margin{
+	background-color: yellow;
+	width: 80px;
+	color: white;
+	border-style: solid;
+	margin: auto;
+	border-radius: 10px;
+	
+}
+.group1{
+	background-color: blue;
+}
